@@ -1,0 +1,16 @@
+scikit-learn==0.24.1
+streamlit==0.89.0
+numpy~=1.24.3
+joblib~=1.2.0
+imbalanced-learn==0.10.1
+pickle==3.9.10
+
+
+bcrypt~=4.0.1
+PyYAML~=6.0
+PyJWT~=2.7.0
+mysql~=0.0.3
+torch~=2.0.1
+setuptools~=60.2.0
+Pillow~=9.5.0
+pandas~=1.4.4
